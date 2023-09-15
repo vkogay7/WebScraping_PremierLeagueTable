@@ -1,6 +1,6 @@
-Here's your markdown code organized for better readability:
 
-```markdown
+
+
 # WebScraping_PremierLeagueTable
 
 Exporting Web Table Standings to Excel sheet
@@ -10,7 +10,7 @@ Comparing mini-projects like this and an IMDB one, this is a little more complic
 Let's look a little closer:
 
 ### Table headers:
-
+```markdown
 ```html
 <thead>
     <tr class="standing-table__row">
